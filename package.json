@@ -19,6 +19,14 @@
     "figlet": "^1.5.2",
     "react": "^18.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelgarces/library-documents-tc-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miguelgarces/library-documents-tc-test/issues"
+  },
+  "homepage": "https://github.com/miguelgarces/library-documents-tc-test#readme",
   "pkg": {
     "scripts": "build/**/*.js",
     "assets": "storejson/**/*",
