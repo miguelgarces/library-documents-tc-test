@@ -10,7 +10,7 @@ const figlet_1 = __importDefault(require("figlet"));
 const program = new commander_1.Command();
 console.log(figlet_1.default.textSync("Pdfs Meli Creator"));
 program
-    .description("An example CLI for generate Meli document PDFs Frontent")
+    .description("An example CLI for generate Meli document PDFs with ReactPdf")
     .requiredOption('-i, --pathdata <path>', 'Json file path absolute with information for the pdf')
     .requiredOption('-o, --pathoutput <path>', 'PDF file output path absolute')
     .parse(process.argv);
