@@ -15,8 +15,8 @@ program
     .requiredOption('-o, --pathoutput <path>', 'PDF file output path absolute')
     .parse(process.argv);
 const options = program.opts();
-let rawdata = (0, fs_1.readFileSync)(options.pathdata);
+let rawdata = (0, fs_1.readFileSync)(options.pathdata.toString().trim());
 let info = JSON.parse(rawdata.toString());
 const pruebaPdf = new prueba_pdf_1.PruebaPdf(info);
-pruebaPdf.saveFile(options.pathoutput);
+pruebaPdf.saveFile(options.pathoutput.toString().trim());
 console.log('Finish PDF in ' + options.pathoutput);
