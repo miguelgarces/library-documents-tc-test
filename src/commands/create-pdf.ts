@@ -21,4 +21,5 @@ let info = JSON.parse(rawdata.toString())
 const pruebaPdf = new PruebaPdf(info)
 pruebaPdf.saveFile(options.pathoutput.toString().trim())
 
+
 console.log('Finish PDF in '+options.pathoutput)
