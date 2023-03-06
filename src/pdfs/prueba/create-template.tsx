@@ -88,6 +88,7 @@ export const PDF = ({ data }: PDFProps) => {
             <View>
               <Text style={styles.statement}>{`${data.amount} paid on ${data.datePaid}`}</Text>
               <Text style={styles.paragraph}>Thank you for your business!</Text>
+              <Text style={styles.paragraph}>Hello!</Text>
             </View>
           </View>
         </Page>

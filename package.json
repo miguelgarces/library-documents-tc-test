@@ -1,7 +1,7 @@
 {
   "name": "library-documents-tc-test",
   "description": "Proof of concept library to create specific PDF's with React PDF",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "build/index.js",
   "scripts": {
     "build": "tsc --build"

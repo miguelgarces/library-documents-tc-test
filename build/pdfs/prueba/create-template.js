@@ -72,6 +72,7 @@ const PDF = ({ data }) => {
                 react_1.default.createElement(renderer_1.View, { style: styles.divider }),
                 react_1.default.createElement(renderer_1.View, null,
                     react_1.default.createElement(renderer_1.Text, { style: styles.statement }, `${data.amount} paid on ${data.datePaid}`),
-                    react_1.default.createElement(renderer_1.Text, { style: styles.paragraph }, "Thank you for your business!"))))));
+                    react_1.default.createElement(renderer_1.Text, { style: styles.paragraph }, "Thank you for your business!"),
+                    react_1.default.createElement(renderer_1.Text, { style: styles.paragraph }, "Hello!"))))));
 };
 exports.PDF = PDF;
