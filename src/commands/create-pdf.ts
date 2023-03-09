@@ -1,11 +1,9 @@
 import { PruebaPdf } from '../pdfs/prueba/prueba-pdf'
 import { readFileSync } from 'fs'
 import { Command } from 'commander'
-import figlet from 'figlet'
 
 
 const program = new Command()
-console.log(figlet.textSync("Pdfs Meli Creator"))
 
 program
     .description("An example CLI for generate Meli document PDFs with ReactPdf")
