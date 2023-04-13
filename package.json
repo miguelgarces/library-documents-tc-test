@@ -1,10 +1,10 @@
 {
   "name": "library-documents-tc-test",
   "description": "Proof of concept library to create specific PDF's with React PDF",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "build/index.js",
   "scripts": {
-    "build": "tsc --build",
+    "build": "tsc --build && npm run build-command",
     "build-command": "esbuild ./src/commands/create-pdf.ts --bundle --platform=node --outfile=dist/command.js"
   },
   "devDependencies": {
