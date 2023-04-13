@@ -83,6 +83,434 @@ export const PDF = ({ data }: PDFProps) => {
                 <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
                 <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
               </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.divider}></View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.divider}></View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
+              <View style={styles.columnEnd}>
+                <Text style={styles.heading}>Receipt</Text>
+                <Text style={styles.paragraph}>Receipt number: {data.receiptNumber}</Text>
+                <Text style={styles.paragraph}>Date paid: {data.datePaid}</Text>
+                <Text style={styles.paragraph}>Payment method: {data.paymentMethod}</Text>
+              </View>
             </View>
             <View style={styles.divider}></View>
             <View>
